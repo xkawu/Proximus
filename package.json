@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "@kawu/console-kit": "^1.2.5"
+    },
+    "scripts": {
+        "dev": "tsc && node ./dist/index.js"
+    },
+    "devDependencies": {
+        "@types/node": "^20.12.12"
+    }
+}
